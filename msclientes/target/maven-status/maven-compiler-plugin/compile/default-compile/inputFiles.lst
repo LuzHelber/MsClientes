@@ -1,0 +1,6 @@
+/home/helber/Projetos/msclientes/src/main/java/br/com/helber/msclientes/infra/repository/ClienteRepository.java
+/home/helber/Projetos/msclientes/src/main/java/br/com/helber/msclientes/application/ClientesResource.java
+/home/helber/Projetos/msclientes/src/main/java/br/com/helber/msclientes/application/representation/ClienteSaveRequest.java
+/home/helber/Projetos/msclientes/src/main/java/br/com/helber/msclientes/domain/Cliente.java
+/home/helber/Projetos/msclientes/src/main/java/br/com/helber/msclientes/MsclientesApplication.java
+/home/helber/Projetos/msclientes/src/main/java/br/com/helber/msclientes/application/ClienteService.java
